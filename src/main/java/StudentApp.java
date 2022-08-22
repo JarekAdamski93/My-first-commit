@@ -41,7 +41,7 @@ public class StudentApp {
 		}
 
 		printList(people);
-		people.remove(3);
+		//people.remove(3);
 		System.out.println(people);
 		
 	
